@@ -46,3 +46,6 @@ Once the frontend is running, you can interact with the API to:
 - Frontend will be available at http://localhost:3000.
 - Backend will be available at http://localhost:8080.
 - The backend allows CORS requests from http://localhost:3000, enabling seamless communication between frontend and backend during development. 🚀
+
+# Future Improvements
+- If I had more time, I could add authentication sections and create a more user-friendly interface. I could even create a button that users can like and display the most liked superheroes.
