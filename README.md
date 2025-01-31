@@ -1,4 +1,4 @@
-# SuperHero Application
+# Humble Superhero API
 This project consists of two parts: a frontend built with Next.js and a backend built with NestJS. The frontend is responsible for displaying and adding superhero data, while the backend provides a RESTful API for managing superheroes.
 
 Prerequisites
