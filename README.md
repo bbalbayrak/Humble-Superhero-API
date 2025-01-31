@@ -34,6 +34,7 @@ npm run build
 Run the frontend development server:
 npm run start
 This will start the Next.js server, and you can access the frontend at http://localhost:3000.
+---
 
 Example Frontend Operation (Next.js SuperHero Component)
 Once the frontend is running, you can interact with the API to:
@@ -41,11 +42,7 @@ Once the frontend is running, you can interact with the API to:
 View Superheroes: The frontend will display a list of superheroes by fetching data from the backend.
 Add a New Superhero: The frontend allows adding new superheroes through a form, which sends data to the backend.
 Notes
+---
 Frontend will be available at http://localhost:3000.
 Backend will be available at http://localhost:8080.
-The backend allows CORS requests from http://localhost:3000, enabling seamless communication between frontend and backend during development.
-Future Improvements
-Add user authentication and authorization for superhero management.
-Implement pagination for the GET /superhero endpoint to handle large lists of superheroes.
-Enhance validation and error handling in the backend API.
-Feel free to contribute to the project or open issues for improvements. 🚀
+The backend allows CORS requests from http://localhost:3000, enabling seamless communication between frontend and backend during development. 🚀
