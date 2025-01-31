@@ -41,8 +41,8 @@ Once the frontend is running, you can interact with the API to:
 
 - View Superheroes: The frontend will display a list of superheroes by fetching data from the backend.
 - Add a New Superhero: The frontend allows adding new superheroes through a form, which sends data to the backend.
-  ---
+  
 # Notes
-Frontend will be available at http://localhost:3000.
-Backend will be available at http://localhost:8080.
-The backend allows CORS requests from http://localhost:3000, enabling seamless communication between frontend and backend during development. 🚀
+- Frontend will be available at http://localhost:3000.
+- Backend will be available at http://localhost:8080.
+- The backend allows CORS requests from http://localhost:3000, enabling seamless communication between frontend and backend during development. 🚀
