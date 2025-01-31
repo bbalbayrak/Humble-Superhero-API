@@ -14,10 +14,10 @@ Navigate to the backend directory (superhero-api).
 
 Install backend dependencies:
 
-npm install
-Run the backend in development mode:
-npm run start:dev
-This will start the NestJS server, and the API will be available at http://localhost:8080.
+- npm install
+- Run the backend in development mode:
+- npm run start:dev
+- This will start the NestJS server, and the API will be available at http://localhost:8080.
 
 # Available API Endpoints:
 Get All SuperHeros: GET http://localhost:8080/superhero
@@ -28,21 +28,21 @@ Navigate to the frontend directory (superhero-client).
 
 Install frontend dependencies:
 
-npm install
-Build the frontend:
-npm run build
-Run the frontend development server:
-npm run start
-This will start the Next.js server, and you can access the frontend at http://localhost:3000.
+- npm install
+- Build the frontend:
+- npm run build
+- Run the frontend development server:
+- npm run start
+- This will start the Next.js server, and you can access the frontend at http://localhost:3000.
+  
 ---
-
 Example Frontend Operation (Next.js SuperHero Component)
 Once the frontend is running, you can interact with the API to:
 
-View Superheroes: The frontend will display a list of superheroes by fetching data from the backend.
-Add a New Superhero: The frontend allows adding new superheroes through a form, which sends data to the backend.
-Notes
----
+- View Superheroes: The frontend will display a list of superheroes by fetching data from the backend.
+- Add a New Superhero: The frontend allows adding new superheroes through a form, which sends data to the backend.
+  ---
+# Notes
 Frontend will be available at http://localhost:3000.
 Backend will be available at http://localhost:8080.
 The backend allows CORS requests from http://localhost:3000, enabling seamless communication between frontend and backend during development. 🚀
